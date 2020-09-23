@@ -1,0 +1,3 @@
+VBGROUP 5.0
+Project=WebComm\WebComm.vbp
+StartupProject=TestApp\TestApp.vbp
